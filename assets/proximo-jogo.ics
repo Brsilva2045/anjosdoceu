@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anjos do Ceu FC//Agenda//PT-BR
+BEGIN:VEVENT
+UID:proximo-jogo-anjosdoceu@example.com
+DTSTAMP:20241126T120000Z
+DTSTART:20241215T190000Z
+DTEND:20241215T203000Z
+SUMMARY:Anjos do Céu x Ferroviário (Amistoso Sub-17)
+LOCATION:Estádio Presidente Vargas
+DESCRIPTION:Amistoso Sub-17 do Anjos do Céu.\nLocal: Estádio Presidente Vargas
+END:VEVENT
+END:VCALENDAR
